@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gst-launch souphttpsrc location=http://stream.csrfm.com/stream ! mp3parse ! ffdec_mp3 ! audioconvert ! audioresample ! alsasink device=plug:default > /dev/null 
+

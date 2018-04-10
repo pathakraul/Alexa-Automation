@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gst-launch  filesrc location= /meta/usb/video.mp4 ! decodebin name=decoder decoder. ! queue ! audioconvert ! audioresample ! alsasink decoder. ! ffmpegcolorspace ! imxv4l2sink 
+

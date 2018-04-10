@@ -1,0 +1,2 @@
+#!/bin/bash
+gst-launch filesrc location=$1 ! mp3parse ! ffdec_mp3 ! alsasink”

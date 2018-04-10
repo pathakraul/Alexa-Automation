@@ -1,0 +1,7 @@
+creds.pyc
+visteonproxy.py
+visteonproxy.pyc
+*.wav
+*.mp3
+resources/*.wav
+resources/*.mp3
