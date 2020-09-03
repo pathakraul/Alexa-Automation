@@ -1,6 +1,3 @@
-# (Unmaintained)
-
-
 ![](alexa-automation.png)
 
 ## Introduction 
