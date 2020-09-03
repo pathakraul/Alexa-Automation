@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 
-from visteonproxy import *
+from proxy import *
 import cherrypy
 import os
 from cherrypy.process import servers
