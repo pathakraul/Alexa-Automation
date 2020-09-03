@@ -1,6 +1,5 @@
-creds.pyc
-visteonproxy.py
-visteonproxy.pyc
+proxy.py
+*.pyc
 *.wav
 *.mp3
 resources/*.wav
